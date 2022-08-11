@@ -1,0 +1,4 @@
+import FreeCAD
+import PartDesignGui
+
+Gui.activateWorkbench("PartWorkbench")
