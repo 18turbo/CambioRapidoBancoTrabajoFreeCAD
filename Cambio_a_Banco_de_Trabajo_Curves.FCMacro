@@ -1,4 +1,3 @@
 import FreeCAD
-import PartDesignGui
 
 Gui.activateWorkbench("CurvesWorkbench")
