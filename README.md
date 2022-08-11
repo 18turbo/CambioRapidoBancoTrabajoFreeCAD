@@ -17,4 +17,4 @@ F1 (Ayuda del programa) y F2 (Renombrar) deberían quedarse sin reasignar, pero 
 
 # Instalación
 
-Descarga cada macro y crea una macro, asignándole un icono adecuado y un atajo de teclado que te sea útil.
+Descarga cada macro y crea una macro para cada una descargada, asignándole un icono adecuado y un atajo de teclado que te sea útil.
